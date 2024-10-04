@@ -1,3 +1,4 @@
+//assignment 2.2
 const fs = require("fs");
 const { extname, join } = require("path");
 const util = require("util");
